@@ -168,7 +168,6 @@ Google Analytics, Flurry Analytics, Facebook Analytics, Amplitude
     
     ### Contact Us
     
-    If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at [support@fundeasy.in](mailto:support@fundeasy.in)
-    
+    If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at happyverseapp@gmail.com
 
 ##
