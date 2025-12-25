@@ -2,7 +2,7 @@
 Love Calculator-Privacy Policy
 # Love Calculator-Privacy Policy
 
-At Love Calculator App, we believe in transparency and honesty. We hope you will find this privacy policy clear and transparent. Do not hesitate to reach out to us at [support@fundeasy.in](mailto:support@fundeasy.in) if you have any questions.
+At Love Calculator App, we believe in transparency and honesty. We hope you will find this privacy policy clear and transparent. Do not hesitate to reach out to us at happyverseapp@gmail.com if you have any questions.
 
 ### What information does the Application obtain and how is it used?
 
